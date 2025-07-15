@@ -1,6 +1,6 @@
 # Ignore demo-data (credentials and workflows) and shared folders
-n8n/demo-data/
-shared/
+n8n/demo-data
+shared
 
 # Environment variable file
 .env
